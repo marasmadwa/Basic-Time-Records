@@ -4,4 +4,6 @@ The application allows you to record working time. Thanks to a simple stopwatch,
 
 
 ### Project preview:
-![alt text](.png)
+![alt text](https://github.com/marasmadwa/Basic-Time-Records/blob/master/1.png)
+### Excel output:
+![alt text](https://github.com/marasmadwa/Basic-Time-Records/blob/master/2.png)
