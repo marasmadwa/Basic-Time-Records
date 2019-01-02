@@ -7,3 +7,7 @@ The application allows you to record working time. Thanks to a simple stopwatch,
 ![alt text](https://github.com/marasmadwa/Basic-Time-Records/blob/master/1.png)
 ### Excel output:
 ![alt text](https://github.com/marasmadwa/Basic-Time-Records/blob/master/2.png)
+
+### Try by yourself !
+
+[Basic-Time_Records](https://marasmadwa.github.io/Basic-Time-Records/)
